@@ -7,5 +7,5 @@ https://beginnerdev.app/post/reactnative-app-build/
 
 ## デモ
 <p align="center">
-![世界遺産図鑑アプリのデモ](https://raw.githubusercontent.com/wiki/devpanda-beginnerdev/WorldHeritage/images/worldheritagetopscreen.gif)
+  <img alt="世界遺産図鑑アプリのデモ" src="https://raw.githubusercontent.com/wiki/devpanda-beginnerdev/WorldHeritage/images/worldheritagetopscreen.gif">
 </p>

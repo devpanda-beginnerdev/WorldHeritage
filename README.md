@@ -7,4 +7,4 @@ https://beginnerdev.app/post/reactnative-app-build/
 
 ## デモ
 
-![demo](https://i.imgur.com/iFfixvE.gif)
+![世界遺産図鑑アプリのデモ](https://raw.githubusercontent.com/wiki/devpanda-beginnerdev/WorldHeritage/images/worldheritagetopscreen.gif)

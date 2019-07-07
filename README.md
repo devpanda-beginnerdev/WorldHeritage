@@ -2,8 +2,8 @@
 
 ## チュートリアル
 
-React Nativeでアプリを作る
-https://beginnerdev.app/post/reactnative-app-build/
+APIのデータをReact NativeアプリのReduxで管理する
+https://beginnerdev.app/post/reactnative-redux-api/
 
 ## デモ
 <p align="center">

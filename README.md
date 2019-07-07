@@ -7,4 +7,4 @@ https://beginnerdev.app/post/reactnative-app-build/
 
 ## デモ
 
-![世界遺産図案アプリのデモ](https://i.imgur.com/iFfixvE.gifv)
+![世界遺産図案アプリのデモ](https://i.imgur.com/iFfixvE.gif)
